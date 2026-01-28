@@ -16,7 +16,7 @@
     "bignumber.js": "^9.1.0",
     "humanize-duration": "^3.27.3",
     "moment": "^2.29.4",
-    "next": "12.1.5",
+    "next": "16.1.6",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "soroban-sdk": "^1.2.0"
